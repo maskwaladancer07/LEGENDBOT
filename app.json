@@ -1,7 +1,7 @@
 {
   "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ 𝕞𝕒𝕤𝕜𝕨𝕒𝕝𝕒𝕕𝕒𝕟𝕔𝕖𝕣. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/81e13ffbe1f482637e9ff.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/maskwaladancer07/LEGENDBOT/",
   "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
